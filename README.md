@@ -1,40 +1,40 @@
-# Repositorio para acompanhar aula inicial com os alunos
+ï»¿# Repositorio para acompanhar aula inicial com os alunos
 
-## Especificação Calculadora Básica
+## Especificaï¿½ï¿½o Calculadora Bï¿½sica
 
 
 CONTEXTO 
-A Dona Mariana precisa de um sistema para calcular operações matemáticas simples, como adição, subtração, multiplicação e divisão entre dois números. 
+A Dona Mariana precisa de um sistema para calcular operaï¿½ï¿½es matemï¿½ticas simples, como adiï¿½ï¿½o, subtraï¿½ï¿½o, multiplicaï¿½ï¿½o e divisï¿½o entre dois nï¿½meros. 
 
 Requisito 01 
 
-//Nossa calculadora deve ter a possibilidade de somar dois números
+//Nossa calculadora deve ter a possibilidade de somar dois nï¿½meros
 
 
 Requisito 02 
 
-//Nossa calculadora deve ter a possibilidade de fazer várias operações de soma
+//Nossa calculadora deve ter a possibilidade de fazer vï¿½rias operaï¿½ï¿½es de soma
 
 
 Requisito 03 
 
-//Nossa calculadora deve ter a possibilidade fazer várias operações de soma e de subtração
+//Nossa calculadora deve ter a possibilidade fazer vï¿½rias operaï¿½ï¿½es de soma e de subtraï¿½ï¿½o
 
 
 Requisito 04 
 
-//Nossa calculadora deve ter a possibilidade fazer as quatro operações básicas da matemática
+//Nossa calculadora deve ter a possibilidade fazer as quatro operaï¿½ï¿½es bï¿½sicas da matemï¿½tica
 
 
 Requisito 05 
 
-//Nossa calculadora deve realizar as operações com "0"
+//Nossa calculadora deve realizar as operaï¿½ï¿½es com "0"
 
 
 Requisito 06
 
-//Nossa calculadora deve validar a opções do menu 
+//Nossa calculadora deve validar a opï¿½ï¿½es do menu 
 
 
 Requisito 07
-//Nossa calculadora deve realizar as operações com números com duas casas decimais
+//Nossa calculadora deve realizar as operaï¿½ï¿½es com nï¿½meros com duas casas decimais
